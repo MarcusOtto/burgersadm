@@ -1,0 +1,124 @@
+ [{
+  "stadNamn":"Göteborg",
+  "restaurangDetaljer": [{
+ 	  "restaurangNamn": "Burgers",
+ 	  "telefonNummer": "07634569",
+ 	  "hemsida": "www.burgers.com",
+ 	  "skapad": 2005,
+ 	  "adress": "Andralång gatan 5",
+ 	  "active": true,
+      "schema": [{
+            "dag1": "Måndag",
+            "dag2": "Tisdag",
+            "dag3": "Onsdag",
+            "dag4": "Torsdag",
+            "dag5": "Fredag",
+            "dag6": "Lördag",
+            "dag7": "Söndag",
+            "pass1": "08:00-16:30",
+            "pass2": "16:15-00:00",
+            "arbetstagare": 
+              [{
+                  "n1": "Pernilla",
+                  "n2": "Kalle",
+                  "n3": "Lisa",
+                  "n4": "Pelle",
+                  "n5": "Klas",
+                  "n6": "Annika",
+                  "n7": "Bamse"
+              }]
+      }],
+      "kontaktanst": [{
+            "knamn": "Pernilla",
+            "knr": "056985657",
+            "epost": "asda@live.se"
+           },
+           {
+            "knamn": "Kalle",
+            "knr": "056985657",
+            "epost": "asda@live.se"
+           },
+           {
+            "knamn": "Lisa",
+            "knr": "076985635",
+            "epost": "lisa@live.se"
+           },
+           {
+            "knamn": "Pelle",
+            "knr": "056985657",
+            "epost": "asda@live.se"
+            },
+            {
+            "knamn": "Klas",
+            "knr": "078658965",
+            "epost": "klas@live.se"
+            },
+            {
+            "knamn": "Annika",
+            "knr": "0693658654",
+            "epost": "Annika@live.se"
+            },
+            {
+            "knamn": "Bamse",
+            "knr": "078965865",
+            "epost": "Bamse@live.se"
+            }],
+      "vikarie": [{
+            "knamn": "Osten",
+            "knr": "09658635",
+            "epost": "osten@live.se"
+           },
+           {
+            "knamn": "Gusten",
+            "knr": "069632587",
+            "epost": "gusten@live.se"
+            },
+            {
+            "knamn": "viola",
+            "knr": "0753652147",
+            "epost": "viola@live.se"
+            }],
+ 	  "personBokning": [{
+ 			"fornamn": "Marcus",
+ 			"efternamn": "Nilsson",
+ 			"telefonnummer": "0763413452",
+ 			"epost": "marcus.nilsson@hotmail.com",
+ 			"bokningInfo": 
+               [{
+ 				"Bokningsnummer": 5654,
+ 				"Personer": "4st",
+                "datum": "2019-11-22",
+ 				"Tid": "20:00"
+               }]
+ 		},
+ 		{
+ 			"fornamn": "Kalle",
+ 			"efternamn": "Karlsson",
+ 			"telefonnummer": "0763465568",
+ 			"epost": "kalle.k@hotmail.se",
+ 			"bokningInfo": 
+               [{
+ 				"Bokningsnummer": 5700,
+ 				"Personer": "2st",
+                "datum": "2019-11-30",
+ 				"Tid": "19:00"
+ 			   }]
+ 		},
+ 		{
+ 			"fornamn": "Lisa",
+ 			"efternamn": "Andersson",
+ 			"telefonnummer": "0763456875",
+ 			"epost": "lisen33@live.se",
+ 			"bokningInfo": 
+               [{
+ 				"Bokningsnummer": 5801,
+ 				"Personer": "8st",
+                "datum": "2019-11-30",
+ 				"Tid": "17:00"
+               }]
+ 		}]
+      
+      
+    }]
+}]
+
